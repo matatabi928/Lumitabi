@@ -158,10 +158,7 @@ nav a:hover::after {
 #section2 h3{
   color: rgb(228, 250, 32);  /* 暗めの黄色 */
 }
-#section2 image{
-  width:45%;
-  height:300px;
-}
+
 #section2 .image {
   width: 45%;
   height: 300px;
